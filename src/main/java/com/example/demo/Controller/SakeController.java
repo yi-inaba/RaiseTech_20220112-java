@@ -11,4 +11,5 @@ public class SakeController {
 		return "index";
 	}
 //テスト
+//ブランチtest1作成後
 }

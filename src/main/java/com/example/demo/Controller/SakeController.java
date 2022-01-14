@@ -13,5 +13,5 @@ public class SakeController {
 //テスト
 //ブランチtest1作成後
 //ブランチtest2作成後
-//commit後にtest2push
+//commit後にtest2push-2
 }
